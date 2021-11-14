@@ -1,4 +1,4 @@
-# PracticeCPSCGit
+# Project 2
 
 stuff
 
